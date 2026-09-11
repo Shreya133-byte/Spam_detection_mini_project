@@ -17,7 +17,7 @@ This project builds a machine learning pipeline that automatically analyzes an S
 
 The final model uses **TF-IDF + Linear SVM** and achieved approximately **98.65% accuracy** and **94.85% F1-score** on the held-out test set.
 
----
+demo link:https://2d415a8d971cc655b3.gradio.live/
 
 ## 🎯 Objectives
 
